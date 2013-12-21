@@ -17,6 +17,8 @@ languages:
       key: 'pl'
     - name: '日本語'
       key: 'ja'
+    - name: 'Spanish'
+      key: 'es'
 
 port:         4478
 
